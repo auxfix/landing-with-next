@@ -5,6 +5,9 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
+      <header>
+        <div className="logo">My Awesome Landing</div>
+      </header>
         <Main />
         <NextScript />
       </body>
