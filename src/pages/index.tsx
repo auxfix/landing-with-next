@@ -13,7 +13,7 @@ export default function Home(props:any) {
       <div className="counter">Awesome clicks: <span>{count}</span></div>
 
       <div className="description">
-        <p>A landing page is a web page that is designed to capture a visitor's attention and convert them into a customer or lead. Landing pages typically have a single goal, such as getting visitors to sign up for a newsletter or purchase a product.</p>
+        <p>A landing page is a web page that is designed to capture a visitor attention and convert them into a customer or lead. Landing pages typically have a single goal, such as getting visitors to sign up for a newsletter or purchase a product.</p>
       </div>
 
       <div className="feature-list">
